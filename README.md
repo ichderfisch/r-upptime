@@ -20,7 +20,7 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 
 <!--end: status pages-->
 
-[**Visit our status website →**](https://demo.upptime.js.org)
+[**Visit my status website →**](https://ichderfisch.github.io/r-upptime/)
 
 ## 📄 License
 
